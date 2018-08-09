@@ -39,7 +39,7 @@ msgstr "AMP 블로그"
 
 #: /content/includes/menu.yaml
 msgid "AMP By Example"
-msgstr ""
+msgstr "예제로 보는 AMP"
 
 #: /content/includes/stories.yaml
 msgid "AMP Component Library"
@@ -55,7 +55,7 @@ msgstr ""
 
 #: /content/includes/menu.yaml
 msgid "AMP Experiments"
-msgstr ""
+msgstr "AMP 실험 목록"
 
 #: /content/docs/fundamentals/spec/_blueprint.yaml
 msgid "AMP HTML Specification"
@@ -96,11 +96,11 @@ msgstr "AMP 로드맵"
 
 #: /views/partials/promo_banner.html:18
 msgid "AMP Roadshows."
-msgstr ""
+msgstr "AMP 로드쇼"
 
 #: /content/includes/menu.yaml
 msgid "AMP Start"
-msgstr ""
+msgstr "초보를 위한 AMP 스타트"
 
 #: /content/includes/menu.yaml
 msgid "AMP Status"
@@ -108,7 +108,7 @@ msgstr ""
 
 #: /content/includes/menu.yaml
 msgid "AMP Validator"
-msgstr ""
+msgstr "AMP 검사기"
 
 #: /content/reference/components/_blueprint.yaml
 msgid "AMP components"
@@ -172,7 +172,7 @@ msgstr ""
 
 #: /content/includes/menu.yaml /content/includes/stories.yaml
 msgid "AMP stories"
-msgstr ""
+msgstr "AMP 스토리"
 
 #: /content/includes/stories.yaml
 msgid ""
@@ -689,7 +689,7 @@ msgstr "예제"
 
 #: /content/includes/menu.yaml
 msgid "Experimental features"
-msgstr ""
+msgstr "실험 기능"
 
 #: /content/learn/who/ecommerce.yaml
 msgid "Explore live code samples and demos."
@@ -803,7 +803,7 @@ msgstr "더 빠른 성능과 인게이지먼트"
 #: /content/learn/about-how@ru.yaml /content/learn/about-how@tr.yaml
 #: /content/learn/about-how@zh_CN.yaml
 msgid "How AMP Works"
-msgstr "AMP 는 어떻게 동작하는가"
+msgstr "AMP 동작 방식"
 
 #: /content/learn/who/ecommerce.yaml
 msgid "How AMP can help ecommerce"
@@ -997,7 +997,7 @@ msgstr "뉴스"
 
 #: /content/includes/menu.yaml
 msgid "Newsletter"
-msgstr ""
+msgstr "뉴스레터"
 
 #: /content/support/faqs/supported-browsers.md
 #: /content/support/faqs/supported-browsers@es.md
@@ -1190,7 +1190,7 @@ msgstr ""
 #: /content/includes/menu.yaml /content/learn/showcases.html
 #: /views/showcase-main.html:12
 msgid "Showcase"
-msgstr ""
+msgstr "쇼케이스"
 
 #: /views/partials/promo_banner.html:20
 msgid "Sign up"
@@ -1552,11 +1552,11 @@ msgstr ""
 #: /content/learn/overview@pt_BR.yaml /content/learn/overview@ru.yaml
 #: /content/learn/overview@tr.yaml /content/learn/overview@zh_CN.yaml
 msgid "What is AMP"
-msgstr "AMP 란"
+msgstr "AMP란"
 
 #: /content/includes/menu.yaml
 msgid "What is AMP?"
-msgstr "AMP 란?"
+msgstr "AMP란?"
 
 #: /content/includes/menu.yaml
 msgid "What's New"
@@ -1595,7 +1595,7 @@ msgstr ""
 
 #: /content/includes/menu.yaml
 msgid "Who is AMP for?"
-msgstr "AMP 는 어떤 이들을 위해 존재할까요?"
+msgstr "AMP는 어떤 분들께 필요할까요?"
 
 #: /content/includes/stories.yaml
 msgid "Why AMP stories?"
